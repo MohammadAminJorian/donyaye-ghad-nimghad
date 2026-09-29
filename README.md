@@ -3,20 +3,22 @@
 A modern and responsive kindergarten website designed to introduce the kindergarten, showcase its facilities and activities, display a photo gallery, and provide an easy way for parents and visitors to learn more about the kindergarten.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-MohammadAminJorian-black?style=for-the-badge&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Django-5.x-green?style=for-the-badge&logo=django" alt="Django">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
 </p>
 
 ---
 
 ## 📌 About The Project
 
-**Donyaye Ghad Nimghad** is a kindergarten website developed to provide parents and visitors with useful information about the kindergarten in a simple, friendly, and visually appealing interface.
+**Donyaye Ghad Nimghad** is a modern kindergarten website developed to introduce the kindergarten, its facilities, activities, and services in a simple, friendly, and visually appealing interface.
 
-The website includes different sections for introducing the kindergarten, displaying its facilities and services, presenting educational and recreational activities, showcasing a photo gallery, and collecting visitors' comments and opinions.
+The website includes different sections for presenting information about the kindergarten, displaying available facilities, showcasing educational and recreational activities, presenting a photo gallery, and collecting visitors' comments and opinions.
 
-The project focuses on a **clean user interface, responsive design, easy content management, and a friendly visual experience** suitable for a kindergarten website.
+The project focuses on a **clean user interface, responsive design, attractive visual presentation, and an easy-to-use experience for parents and visitors**.
 
 ---
 
@@ -24,27 +26,27 @@ The project focuses on a **clean user interface, responsive design, easy content
 
 | Feature                      | Description                                                      |
 | ---------------------------- | ---------------------------------------------------------------- |
-| 🏫 Kindergarten Introduction | Introduction and information about the kindergarten              |
+| 🏫 Kindergarten Introduction | Introduction and general information about the kindergarten      |
 | 🎨 Facilities                | Display of kindergarten facilities and available services        |
 | 📸 Photo Gallery             | Gallery for displaying photos of the kindergarten and activities |
-| 💬 Comments                  | Visitors can share their opinions and comments                   |
+| 💬 Comments                  | Visitors can share their opinions and feedback                   |
 | 🎯 Activities                | Presentation of educational and recreational activities          |
 | 👩‍🏫 Staff Information      | Section for introducing teachers and kindergarten staff          |
-| 📰 News & Announcements      | Display important kindergarten news and announcements            |
+| 📰 News & Announcements      | Display of important news and announcements                      |
 | 📞 Contact Section           | Contact information for parents and visitors                     |
 | 📱 Responsive Design         | Optimized for desktop, tablet, and mobile devices                |
-| ⚙️ Management Panel          | Manage website content through the administration panel          |
+| 🎨 Modern UI                 | Friendly and visually appealing interface                        |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Django-5.x-green?style=for-the-badge&logo=django" alt="Django">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 ---
@@ -74,10 +76,19 @@ The project focuses on a **clean user interface, responsive design, easy content
 ```text
 donyaye-ghad-nimghad/
 │
-├── index.html
+├── index.php
 ├── css/
+│   └── ...
+│
 ├── js/
+│   └── ...
+│
 ├── images/
+│   └── ...
+│
+├── assets/
+│   └── ...
+│
 └── ...
 ```
 
@@ -91,11 +102,11 @@ A dedicated section for introducing **Donyaye Ghad Nimghad**, its environment, g
 
 ### 🎨 Facilities & Services
 
-The website provides a clear and attractive way to introduce the facilities and services available at the kindergarten.
+The website provides an attractive way to introduce the available facilities and services of the kindergarten.
 
 ### 📸 Photo Gallery
 
-A dedicated photo gallery allows visitors to explore pictures of the kindergarten environment, activities, events, and different moments.
+A dedicated photo gallery allows visitors to explore photos of the kindergarten environment, activities, events, and different moments.
 
 ### 💬 Visitor Comments
 
@@ -103,15 +114,15 @@ Visitors can share their opinions and feedback through the comments section.
 
 ### 🎯 Educational & Recreational Activities
 
-Different educational and recreational activities can be presented to parents and visitors.
+Different educational and recreational activities can be presented to parents and visitors to provide a better understanding of the kindergarten's programs.
 
 ### 👩‍🏫 Staff Introduction
 
-A dedicated section can be used to introduce teachers and kindergarten staff and provide parents with more information about the team.
+A section for introducing teachers and kindergarten staff helps parents become more familiar with the kindergarten team.
 
 ### 📰 News & Announcements
 
-Important news, announcements, events, and updates can be presented to visitors through the website.
+Important news, announcements, events, and updates can be presented to visitors.
 
 ### 📞 Contact Information
 
@@ -168,11 +179,11 @@ If you find this project useful or interesting, consider giving the repository a
 
 ## 📌 درباره پروژه
 
-**دنیای قد نیم قد** یک وبسایت مهدکودک است که با هدف ارائه اطلاعات مورد نیاز والدین و بازدیدکنندگان در محیطی ساده، زیبا و کاربرپسند طراحی شده است.
+**دنیای قد نیم قد** یک وبسایت مدرن برای مهدکودک است که با هدف معرفی مجموعه، امکانات، فعالیت‌ها و خدمات آن در محیطی ساده، زیبا و کاربرپسند طراحی شده است.
 
-در این وبسایت بخش‌های مختلفی برای معرفی مهدکودک، نمایش امکانات و خدمات، معرفی فعالیت‌های آموزشی و تفریحی، نمایش تصاویر و گالری و همچنین ثبت نظرات بازدیدکنندگان در نظر گرفته شده است.
+این وبسایت شامل بخش‌های مختلفی برای معرفی مهدکودک، نمایش امکانات، معرفی فعالیت‌های آموزشی و تفریحی، نمایش گالری تصاویر و دریافت نظرات بازدیدکنندگان است.
 
-تمرکز پروژه بر روی **رابط کاربری زیبا، طراحی ریسپانسیو و ایجاد تجربه کاربری مناسب برای والدین و بازدیدکنندگان** بوده است.
+تمرکز پروژه بر روی **رابط کاربری زیبا، طراحی ریسپانسیو، ظاهر جذاب و ایجاد تجربه کاربری مناسب برای والدین و بازدیدکنندگان** بوده است.
 
 ---
 
@@ -180,7 +191,7 @@ If you find this project useful or interesting, consider giving the repository a
 
 | امکان                 | توضیحات                                           |
 | --------------------- | ------------------------------------------------- |
-| 🏫 معرفی مهدکودک      | معرفی مجموعه و ارائه اطلاعات مربوط به مهدکودک     |
+| 🏫 معرفی مهدکودک      | معرفی مجموعه و ارائه اطلاعات کلی درباره مهدکودک   |
 | 🎨 امکانات            | نمایش امکانات و خدمات موجود در مهدکودک            |
 | 📸 گالری تصاویر       | نمایش تصاویر محیط، فعالیت‌ها و برنامه‌های مهدکودک |
 | 💬 نظرات              | امکان ثبت نظر و دیدگاه بازدیدکنندگان              |
@@ -189,15 +200,18 @@ If you find this project useful or interesting, consider giving the repository a
 | 📰 اخبار و اطلاعیه‌ها | نمایش اخبار و اطلاعیه‌های مهم                     |
 | 📞 ارتباط با ما       | نمایش اطلاعات تماس برای والدین و بازدیدکنندگان    |
 | 📱 طراحی ریسپانسیو    | نمایش مناسب در موبایل، تبلت و کامپیوتر            |
+| 🎨 رابط کاربری مدرن   | طراحی زیبا و مناسب برای فضای مهدکودک              |
 
 ---
 
 ## 🛠️ تکنولوژی‌های استفاده شده
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 ---
@@ -227,10 +241,19 @@ If you find this project useful or interesting, consider giving the repository a
 ```text
 donyaye-ghad-nimghad/
 │
-├── index.html
+├── index.php
 ├── css/
+│   └── ...
+│
 ├── js/
+│   └── ...
+│
 ├── images/
+│   └── ...
+│
+├── assets/
+│   └── ...
+│
 └── ...
 ```
 
@@ -244,7 +267,7 @@ donyaye-ghad-nimghad/
 
 ### 🎨 امکانات و خدمات
 
-نمایش امکانات و خدمات مهدکودک به صورت مرتب و قابل دسترس برای والدین.
+نمایش امکانات و خدمات مهدکودک به صورت زیبا و قابل دسترس برای والدین.
 
 ### 📸 گالری تصاویر
 
@@ -256,7 +279,7 @@ donyaye-ghad-nimghad/
 
 ### 🎯 فعالیت‌های آموزشی و تفریحی
 
-معرفی برنامه‌ها و فعالیت‌های آموزشی و تفریحی برای آشنایی بیشتر والدین با محیط و برنامه‌های مهدکودک.
+معرفی برنامه‌ها و فعالیت‌های آموزشی و تفریحی برای آشنایی بیشتر والدین با برنامه‌های مهدکودک.
 
 ### 👩‍🏫 معرفی مربیان
 
