@@ -69,93 +69,16 @@ The project focuses on a **clean user interface, responsive design, easy content
 
 ---
 
-# 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/MohammadAminJorian/donyaye-ghad-nimghad.git
-cd donyaye-ghad-nimghad
-```
-
-### 2. Create a virtual environment
-
-```bash
-python -m venv env
-```
-
-### 3. Activate the virtual environment
-
-**Windows:**
-
-```bash
-env\Scripts\activate
-```
-
-**Linux / macOS:**
-
-```bash
-source env/bin/activate
-```
-
-### 4. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5. Apply migrations
-
-```bash
-python manage.py migrate
-```
-
-### 6. Create an admin account
-
-```bash
-python manage.py createsuperuser
-```
-
-### 7. Run the development server
-
-```bash
-python manage.py runserver
-```
-
-Then open:
-
-```text
-http://127.0.0.1:8000/
-```
-
----
-
 # 📂 Project Structure
 
 ```text
 donyaye-ghad-nimghad/
 │
-├── manage.py
-├── requirements.txt
-│
-├── app/
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   └── admin.py
-│
-├── templates/
-│   └── ...
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-└── media/
-    └── ...
+├── index.html
+├── css/
+├── js/
+├── images/
+└── ...
 ```
 
 ---
@@ -197,10 +120,6 @@ A dedicated contact section makes it easier for parents and visitors to find the
 ### 📱 Responsive Interface
 
 The website is designed to provide a suitable experience across different screen sizes, including mobile phones, tablets, and desktop computers.
-
-### ⚙️ Django Admin Panel
-
-Website content can be managed through Django's administration system, making it easier to manage different parts of the website.
 
 ---
 
@@ -253,7 +172,7 @@ If you find this project useful or interesting, consider giving the repository a
 
 در این وبسایت بخش‌های مختلفی برای معرفی مهدکودک، نمایش امکانات و خدمات، معرفی فعالیت‌های آموزشی و تفریحی، نمایش تصاویر و گالری و همچنین ثبت نظرات بازدیدکنندگان در نظر گرفته شده است.
 
-تمرکز پروژه بر روی **رابط کاربری زیبا، طراحی ریسپانسیو، مدیریت آسان محتوا و ایجاد تجربه کاربری مناسب برای والدین و بازدیدکنندگان** بوده است.
+تمرکز پروژه بر روی **رابط کاربری زیبا، طراحی ریسپانسیو و ایجاد تجربه کاربری مناسب برای والدین و بازدیدکنندگان** بوده است.
 
 ---
 
@@ -270,15 +189,12 @@ If you find this project useful or interesting, consider giving the repository a
 | 📰 اخبار و اطلاعیه‌ها | نمایش اخبار و اطلاعیه‌های مهم                     |
 | 📞 ارتباط با ما       | نمایش اطلاعات تماس برای والدین و بازدیدکنندگان    |
 | 📱 طراحی ریسپانسیو    | نمایش مناسب در موبایل، تبلت و کامپیوتر            |
-| ⚙️ پنل مدیریت         | مدیریت محتوای سایت از طریق پنل مدیریت             |
 
 ---
 
 ## 🛠️ تکنولوژی‌های استفاده شده
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Django-5.x-green?style=for-the-badge&logo=django" alt="Django">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
@@ -306,91 +222,16 @@ If you find this project useful or interesting, consider giving the repository a
 
 ---
 
-# 🚀 نحوه اجرای پروژه
-
-### 1. دریافت پروژه
-
-```bash
-git clone https://github.com/MohammadAminJorian/donyaye-ghad-nimghad.git
-cd donyaye-ghad-nimghad
-```
-
-### 2. ساخت محیط مجازی
-
-```bash
-python -m venv env
-```
-
-### 3. فعال‌سازی محیط مجازی
-
-**Windows:**
-
-```bash
-env\Scripts\activate
-```
-
-**Linux / macOS:**
-
-```bash
-source env/bin/activate
-```
-
-### 4. نصب پکیج‌ها
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5. اجرای Migration
-
-```bash
-python manage.py migrate
-```
-
-### 6. ساخت کاربر مدیریت
-
-```bash
-python manage.py createsuperuser
-```
-
-### 7. اجرای پروژه
-
-```bash
-python manage.py runserver
-```
-
-سپس وارد آدرس زیر شوید:
-
-```text
-http://127.0.0.1:8000/
-```
-
----
-
 # 📂 ساختار پروژه
 
 ```text
 donyaye-ghad-nimghad/
 │
-├── manage.py
-├── requirements.txt
-│
-├── app/
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   └── admin.py
-│
-├── templates/
-│   └── ...
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-└── media/
-    └── ...
+├── index.html
+├── css/
+├── js/
+├── images/
+└── ...
 ```
 
 ---
@@ -432,10 +273,6 @@ donyaye-ghad-nimghad/
 ### 📱 رابط کاربری ریسپانسیو
 
 طراحی مناسب برای نمایش در دستگاه‌های مختلف مانند موبایل، تبلت و کامپیوتر.
-
-### ⚙️ پنل مدیریت Django
-
-امکان مدیریت بخش‌های مختلف سایت از طریق پنل مدیریت Django.
 
 ---
 
